@@ -2,7 +2,7 @@
 - 👀 I’m interested in expanding my Knowledge in Analysis
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on analytics related projects
-- 📫 How to reach me olaokeolanrewaju@yahoo.com
+- 📫 How to reach me olaokeolanrewaju@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: as a data analyst until you have data and fact to back you up you are a liar
 
